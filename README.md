@@ -16,7 +16,7 @@
 
 ## Використані бібліотеки
 
-- [gofpdf](https://pkg.go.dev/github.com/jung-kurt/gofpdf/v2) — для генерації PDF
+- [gofpdf](https://pkg.go.dev/github.com/jung-kurt/gofpdf) — для генерації PDF
 - [cobra](https://github.com/spf13/cobra) — для CLI-команд та аргументів
 
 ---
